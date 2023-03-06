@@ -11,3 +11,5 @@ str(transfer)
 selected <- transfer %>% as_tibble() %>%
   select(name, to_club, to_league, market_value, transfer_value) %>%
   filter(to_league %in% c('bundesliga', 'premier-league', 'serie-a', 'laliga'))
+
+# using the value function from function_value.r
