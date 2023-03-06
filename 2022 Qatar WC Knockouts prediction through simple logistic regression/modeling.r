@@ -25,7 +25,8 @@ tab <- table(tib)
 cfm <- as_tibble(tab)
 plot_confusion_matrix(cfm, target_col = "target", prediction_col = "prediction",counts_col = "n")
 
-# The approximate accuracy of the model is about 68.97%, and although the sensitivity is not dramatically larger than the specificity, the numbers were relatively high (0.7143).  The reason for the high probability that our model predicted 1 (pass to the knockouts) whereas the true result is 0, is because most of the data were centered around 0.5~0.6.
+# The approximate accuracy of the model is about 68.97%, and although the sensitivity is not dramatically larger than the specificity, the numbers were relatively high (0.7143).  
+# The reason for the high probability that our model predicted 1 (pass to the knockouts) whereas the true result is 0, is because most of the data were centered around 0.5~0.6.
 
 library(Epi)
 ROC(pred, test$knockouts, plot='ROC')
