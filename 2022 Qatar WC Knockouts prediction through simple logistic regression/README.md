@@ -10,7 +10,7 @@ All datasets are licensed by CC:0 Public Domain
 ## Tools : R
 
 ## Steps
-1. Data wrangling  
+1. Data wrangling
 Assigning points to teams according to their FIFA rankings on the year that the World Cup took place respectively.
 
 2. Modeling  
