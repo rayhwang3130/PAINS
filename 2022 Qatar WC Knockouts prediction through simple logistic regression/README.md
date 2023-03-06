@@ -1,10 +1,12 @@
 # 2022 Qatar WC Knockouts prediction through simple logistic regression
 
 ## Data
+- FIFA rankings (1992~2022)  
 [FIFA World Cup Ranking Data](https://www.kaggle.com/datasets/cashncarry/fifaworldranking)  
-- FIFA rankings (1992~2022)
-[WC Match & Result Data](https://www.kaggle.com/datasets/abecklas/fifa-world-cup)  
+
 - World Cup fixtures history data  
+[WC Match & Result Data](https://www.kaggle.com/datasets/abecklas/fifa-world-cup)  
+
 All datasets are licensed by CC:0 Public Domain
 
 ## Tools : R
