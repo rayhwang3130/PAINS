@@ -26,4 +26,4 @@ Assigning points to teams according to their FIFA rankings on the year that the 
 Using the model above, estimating the win rates that underdogs in each group would have, and seeing if they would make it to the knockouts. 
 
 4. Limitations
-Weather & climate issues, Area played & homeground advantages, Total movement of the squad (by transportation), Some extraordinary cases (ex. oppositi
+Weather & climate issues, Area played & homeground advantages, Total movement of the squad (by transportation), Some extraordinary cases (ex. opposition’s main member becomes injured)
