@@ -10,3 +10,5 @@ plot(org.data$knockouts ~ org.data$diffpts, main='Group difficulty pts. of teams
 # → 2018 WC Russia, 2002 WC Senegal, 2006 WC Ghana, 1998 WC Paraguay
 
 # We will consider these as outliers, and delete them off the dataset.
+
+# DATASET : wc 2018-1998 adj.csv
