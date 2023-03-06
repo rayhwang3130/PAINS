@@ -15,5 +15,6 @@
 
 ## Main Projects can be found on separate repos  
 - XG variance by passing : Are players really giving the *best* passes?
+  - [Link to repo](https://github.com/rayhwang3130/XG-Variance-by-Passing-in-Football)
   - Image-Tabular Multimodal model
   - `Autogluon` module
